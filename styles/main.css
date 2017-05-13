@@ -4,15 +4,15 @@ body {
   font-family: Gotham, sans-serif;
   }
 
-h1, h2, li {
+h1, h2, h3, a {
   color: #CCDFCC;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 p {
   color: #555;
 }
 
-.nav {
+ {
 
 }
