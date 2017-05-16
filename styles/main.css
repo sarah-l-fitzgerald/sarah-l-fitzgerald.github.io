@@ -2,7 +2,8 @@ body {
   background-color: white;
   text-align: center;
   font-family: Gotham, sans-serif;
-  display: block;}
+  display: block;
+}
 
 .row {
    width: 100%
@@ -15,9 +16,14 @@ body {
   width: 100%
 }
 
-.col-4 {
+.home {
+  margin:auto;
+}
+
+.col-3 {
   width: 25%
-  display:inline-block;
+  display:block;
+
 
 }
 
@@ -26,9 +32,6 @@ h1, a {
   font-weight: bold;
 }
 
-ul {
-  list-style-type: none;
-  }
 
 p {
   color: #555;
