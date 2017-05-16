@@ -17,6 +17,7 @@ body {
 
 .col-4 {
   width: 25%
+  display:inline-block;
 
 }
 
