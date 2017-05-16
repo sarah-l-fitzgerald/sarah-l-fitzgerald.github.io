@@ -22,8 +22,6 @@ body {
 
 .col-3 {
   width: 25%
-  display:inline-block;
-
 
 }
 
@@ -35,7 +33,7 @@ a {
   color: #CCDFCC;
   font-weight: bold;
   text-decoration-line: none;
-  float: left;
+  display: inline-block;
   padding: 10px
 }
 
