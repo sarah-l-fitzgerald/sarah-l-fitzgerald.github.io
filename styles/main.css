@@ -22,7 +22,7 @@ body {
 
 .col-3 {
   width: 25%
-  display:block;
+  display:inline-block;
 
 
 }
