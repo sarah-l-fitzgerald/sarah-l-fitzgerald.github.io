@@ -27,9 +27,15 @@ body {
 
 }
 
-h1, a {
+h1 {
+   color: #CCDFCC;
+}
+
+a {
   color: #CCDFCC;
   font-weight: bold;
+  display: block;
+  text-decoration: none;
 }
 
 
