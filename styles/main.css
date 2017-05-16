@@ -2,7 +2,7 @@ body {
   background-color: white;
   text-align: center;
   font-family: Gotham, sans-serif;
-  }
+  display: block;}
 
 .row {
    width: 100%
