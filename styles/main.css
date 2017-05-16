@@ -35,6 +35,8 @@ a {
   color: #CCDFCC;
   font-weight: bold;
   text-decoration-line: none;
+  float: left;
+  padding: 10px
 }
 
 
