@@ -4,21 +4,23 @@ body {
   font-family: Gotham, sans-serif;
   }
 
-.navigation {
-  text-align: center;
-  position: fixed;
-  height: auto;
-  border-style: none;
+.row {
+   width: 100%
+   display:inline-flex;
+   flex-wrap: wrap;
+   ;
 }
 
-
-
-
-.header {
-  font-weight: 600;
+.col-12 {
+  width: 100%
 }
 
-h1, h2, h3, a {
+.col-4 {
+  width: 25%
+
+}
+
+h1, h2, a {
   color: #CCDFCC;
   font-weight: bold;
 }
