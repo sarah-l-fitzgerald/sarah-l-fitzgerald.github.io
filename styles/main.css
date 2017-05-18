@@ -7,7 +7,7 @@ body {
 
 .row {
    width: 100%
-   display:inline-flex;
+   display:flex;
    flex-wrap: wrap;
    ;
 }
@@ -33,7 +33,6 @@ a {
   color: #CCDFCC;
   font-weight: bold;
   text-decoration-line: none;
-  display: inline-block;
   padding: 10px
 }
 
