@@ -13,14 +13,50 @@
   color: white;
 }
 
+.bloghero {
+  background-image: url('../images/pexels-photo.jpeg');
+  background-size: contain;
+  font-family: 'Muli',sans-serif;
+  color: white;
+}
+
+.blogstuff {
+  font-family: 'Muli',sans-serif;
+  background-image: url('../images/pexels-photo-220201.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  height: 400px;
+  color: white;
+}
+
+.divider {
+  height: 20px;
+  width: 100%;
+  }
+
+.blognav a {
+  font-family: 'Muli',sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+  color: black;
+}
+
 .one-third.column {
   text-align: center;
 }
-
+'M'
 .ul.blogposts a {
   font-family: 'Muli',sans-serif;
   text-decoration: none;
-
 }
 
+.content a {
+  padding-top: : 50px;
+  font-family: 'Muli',sans-serif;
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
 }
