@@ -14,8 +14,9 @@
 }
 
 .bloghero {
-  background-image: url('../images/pexels-photo.jpeg');
-  background-size: contain;
+  background-image: url('../images/landscape-sky-night-stars-29435.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Muli',sans-serif;
   color: white;
 }
@@ -31,23 +32,54 @@
   color: white;
 }
 
+}
 .divider {
   height: 20px;
   width: 100%;
   }
 
-.blognav a {
+.navbutton  {
+  font-family: 'Muli',sans-serif;
+  background-color: #ECEFF2;
+  text-decoration: none;
+  color: black;
+}
+.blognav  {
   font-family: 'Muli',sans-serif;
   font-size: 25px;
   font-weight: 400;
   text-decoration: none;
   color: black;
+  background-color: #ECEFF2;
+}
+
+.bottombit {
+  background-image: url('../images/landscape-sky-night-stars-29435.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#homekey{
+  font-size: 15px;
+  color: white;
 }
 
 .one-third.column {
   text-align: center;
+  text-decoration: none;
+  color: black;
 }
-'M'
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
 .ul.blogposts a {
   font-family: 'Muli',sans-serif;
   text-decoration: none;
